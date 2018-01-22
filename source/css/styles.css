@@ -170,3 +170,15 @@ h1, h2, h3 {
 	margin: 0 10px;
 	color: #000;
 }
+
+.copyright {
+	text-align: center;
+}
+
+.copyright-item {
+	display: inline-block;
+	margin: 0 5px;
+	font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+	color: rgba(0,0,0,.5);
+}
