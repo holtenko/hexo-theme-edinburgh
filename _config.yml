@@ -4,3 +4,6 @@ google_analytics:
 # Default portfolio post
 default_cover_image: images/unsplash.jpg
 default_post_title: Portfolio Item
+
+# Specify the date when the site was setup
+since: 2015
